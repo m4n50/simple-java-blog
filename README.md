@@ -15,19 +15,6 @@ An application written in **pure Java SE** and built using **Maven**. This proje
 - No frameworks or external dependencies
 
 ---
-
-## 📂 Project Structure
-simple-java-blog/
-├── pom.xml
-└── src/
-└── main/
-└── java/
-└── com/
-└── realestateblog/
-├── BlogPost.java
-├── BlogManager.java
-└── MainApp.java
-
 ---
 
 ## 🚀 How to Run
