@@ -49,4 +49,4 @@ simple-java-blog/
  - Store posts in a database instead of a text file
 
 📄 License
-This project is open-source and free to use under the MIT License.
+This project is licensed under the [MIT License](LICENSE) © 2025 [m4n50](https://github.com/m4n50).
