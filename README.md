@@ -38,9 +38,9 @@ simple-java-blog/
 
 📘 Features
 
-  📝 Add blog posts with title and content  
-  📚 View all blog posts in a list
-  💾 Save/load posts to/from a file (blogposts.txt)
+  - Add blog posts with title and content  
+  - View all blog posts in a list
+  - Save/load posts to/from a file (blogposts.txt)
 
 📈 Future Improvements
  - Add categories or tags
