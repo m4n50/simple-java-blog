@@ -44,6 +44,8 @@ public class Blog {
                 }
                 default -> System.out.println("Invalid option.");
             }
+            scanner.close();
+            System.out.println("Goodbye.");
         }
     }
 }
